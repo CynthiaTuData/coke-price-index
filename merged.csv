@@ -1,0 +1,92 @@
+country,price,monthly_salary,bottle_per_day
+Norway,2.52,3420.36,45.0
+Finland,2.49,2769.78,37.0
+Denmark,2.41,3526.72,49.0
+Israel,2.33,2642.97,38.0
+Australia,2.23,3832.35,57.0
+New Zealand,2.16,3012.85,46.0
+Ireland,2.05,2918.31,47.0
+United Kingdom,1.97,2827.48,48.0
+Sweden,1.84,2680.31,49.0
+Italy,1.55,1680.87,36.0
+Canada,1.48,3090.66,70.0
+Netherlands,1.47,3394.76,77.0
+Switzerland,1.45,5901.81,136.0
+Austria,1.4,2529.32,60.0
+South Korea,1.39,2368.23,57.0
+France,1.39,2482.03,60.0
+Puerto Rico,1.29,1721.56,44.0
+Uruguay,1.29,900.18,23.0
+Belgium,1.24,2593.98,70.0
+Germany,1.24,2969.82,80.0
+Luxembourg,1.24,,
+Latvia,1.18,1026.22,29.0
+Costa Rica,1.17,837.84,24.0
+Hong Kong,1.15,2834.3,82.0
+Cyprus,1.15,1419.98,41.0
+Czech Republic,1.14,1533.22,45.0
+Chile,1.13,676.47,20.0
+Macao,1.12,,
+Spain,1.11,1840.23,55.0
+Singapore,1.1,4935.4,150.0
+Portugal,1.09,1070.93,33.0
+Lithuania,1.08,1148.11,35.0
+Japan,1.04,2586.45,83.0
+Saudi Arabia,1.04,1957.63,63.0
+Greece,1.03,883.56,29.0
+Argentina,0.99,423.96,14.0
+Kazakhstan,0.98,465.59,16.0
+Hungary,0.97,872.3,30.0
+Slovakia,0.97,1029.86,35.0
+United Arab Emirates,0.95,3558.21,125.0
+South Africa,0.92,1294.29,47.0
+Poland,0.9,1071.74,40.0
+Qatar,0.88,3991.81,151.0
+Bulgaria,0.88,808.79,31.0
+Romania,0.86,779.35,30.0
+Slovenia,0.86,1288.73,50.0
+Guatemala,0.85,486.26,19.0
+Oman,0.82,2083.19,85.0
+Panama,0.79,770.5,33.0
+Uganda,0.79,,
+Russia,0.78,682.61,29.0
+United States,0.76,4177.35,183.0
+Colombia,0.74,303.56,14.0
+Paraguay,0.73,,
+Bolivia,0.72,448.09,21.0
+Serbia,0.71,598.81,28.0
+Peru,0.7,421.77,20.0
+Zambia,0.66,,
+Mexico,0.64,680.42,35.0
+Belarus,0.63,509.95,27.0
+Brazil,0.62,392.41,21.0
+Morocco,0.61,382.57,21.0
+Dominican Republic,0.6,370.17,21.0
+Ecuador,0.59,500.5,28.0
+Angola,0.59,,
+Thailand,0.58,570.42,33.0
+Ghana,0.56,172.41,10.0
+Bahrain,0.56,2076.09,124.0
+Malaysia,0.56,925.32,55.0
+Jordan,0.55,636.64,39.0
+Azerbaijan,0.51,355.96,23.0
+Ukraine,0.49,388.78,26.0
+Kenya,0.48,396.95,28.0
+Turkey,0.47,373.08,26.0
+Ivory Coast,0.46,,
+Uzbekistan,0.44,290.25,22.0
+Tanzania,0.43,,
+Tunisia,0.41,290.51,24.0
+Philippines,0.41,303.93,25.0
+Indonesia,0.39,345.12,29.0
+Nigeria,0.38,157.35,14.0
+Vietnam,0.38,449.53,39.0
+China,0.37,1098.73,99.0
+Sri Lanka,0.37,153.39,14.0
+Burma,0.36,,
+Kuwait,0.36,2079.49,193.0
+India,0.33,564.74,57.0
+Bangladesh,0.31,248.59,27.0
+Pakistan,0.26,146.1,19.0
+Iran,0.21,311.67,49.0
+Egypt,0.19,142.37,25.0
