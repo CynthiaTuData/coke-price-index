@@ -16,6 +16,8 @@ Though my mom's consolation did not stop me from meticulously doing maths before
 
 ...something about the coca-cola index and the methodology
 
+![Number of Cokes people can afford with their daily income](draft-map.png)
+
 ...something about comparing the index with the cost of living index (World Bank data)
 
 ...what I found, and why or why not the coca-cola index could be directly translate to the indicator for global cost of living
