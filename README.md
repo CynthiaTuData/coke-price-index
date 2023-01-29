@@ -1,6 +1,10 @@
 # Coke price index
 
-Do you like Cokes? Are you team Coca-Cola or team Pepsi? I used to love drinking Coke, but since moving to the United States, I found that my love for this sweet, refreshing carbonated drink is decreasing. You see, I would constantly doing calculations whenever I'm buying small things. My brain would automatically convert what's on the price tag to the currency I use at home (CNY). When I stop at a vending machine, I'd start contemplating if I should fight my craving for my favorite soda for how much they cost here... Isn't it insane that a bottle of coke here in the United States costs 1.5 dollars? I can get five bottles of coke back home, even bigger sizes, with the same amount, as they usually cost 2 yuan (0.3 dollar) in China. 
+*find my pitch here: [pitch](https://docs.google.com/document/d/1oPNbaKK-7gtwbmfzKv-AIhE520_POGJdWGrdhawJWnA/edit?usp=sharing)*
+
+Do you like Cokes? Are you team Coca-Cola or team Pepsi? I used to love drinking Coke, but since moving to the United States, I found that my love for this sweet, refreshing carbonated drink is decreasing. 
+
+You see, I would constantly doing calculations whenever I'm buying small things. My brain would automatically convert what's on the price tag to the currency I use at home (CNY). When I stop at a vending machine, I'd start contemplating if I should fight my craving for my favorite soda for how much they cost here... Isn't it insane that a bottle of coke here in the United States costs 1.5 dollars? I can get five bottles of coke back home, even bigger sizes, with the same amount, as they usually cost 2 yuan (0.3 dollar) in China. 
 
 So naturally, I complained to my mom about how everything is more expensive here in the States, which quickly escalated into an existential crisis: if I want to live in the U.S. after I graduate from grad school, if I can make enough money and survive off that once I leave school, whether I made the right choice going into journalism because we are paid so little... 
 
