@@ -6,7 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css2?family=Proxima+Nova' rel='stylesheet'>
-    
+    <link href='https://fonts.googleapis.com/css?family=Outfit' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
     
     <title>Coke Index</title>
@@ -25,22 +25,16 @@
     fill: lightsalmon;
   }
 
-  .banner {
-  position: relative;
-  width: 100%;
-  text-align: center;
-  }
 
   .head-text{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-shadow: 5px 5px 5px #ffffffa4;
   }
 
   .headline {
-  font-family: Georgia, 'Open Sans', 'Times New Roman', Times, serif;
+  font-family: 'Outfit', 'Open Sans', 'Times New Roman', Times, serif;
   font-size: 60px;
   font-style: heavy;
   font-weight: normal;
@@ -49,7 +43,7 @@
   }
 
   .deck {
-    font-family: Georgia,'Open Sans', 'Times New Roman', Times, serif;
+    font-family: 'Outfit','Open Sans', 'Times New Roman', Times, serif;
     font-size: 25px;
     line-height: 30px;
     /* margin-left: 150px;
@@ -97,10 +91,25 @@
     margin-right: 150px; */
   }
 
-  .banner{
-    position: relative;
+  .data-diary{
+    color:#757474;
   }
 
+  .banner{
+    position: relative;
+    width: 100%;
+    text-align: center;
+  }
+
+  .banner.image{
+    opacity:95%;
+    border: 0px;
+    width:100%;
+    height: 100%;
+    position: relative;
+    filter: blur(4px);
+  }
+  
   a:hover {
    opacity:  70%;
   }
@@ -153,10 +162,10 @@ p{
     <!-- Feature photo here -->
     <!-- This is my headline --> 
     <div class="banner">
-      <img src="banner.jpg" style='opacity:95%; border: 0px; width:100%; height: 100%; position: relative;' alt="Responsive image">
+      <img class ="banner image" src="banner.jpg" alt="Coke bottles">
       <div class="head-text">
-        <p class="headline"><strong>Coca-Cola Price Index</strong></p>
-        <p class="deck">Can soda prices reflect the cost of living around the world?</p>
+        <p class="headline"><strong>Is Coke Affordable in Your Country? </strong></p>
+        <p class="deck">Soda prices and cost of living around the world.</p>
       </div>
     </div>
 
@@ -182,24 +191,46 @@ p{
         <div class="row content justify-content-center">
             <div class="col-9">
                 <p>Do you like Cokes? Are you team Coca-Cola or team Pepsi? I used to love drinking Coke, but since moving to the United States, I found that my love for this sweet, refreshing carbonated drink is decreasing. </p>
-                <p>I would constantly doing calculations whenever I'm buying small things. My brain would automatically convert what's on the price tag to the currency I use at home (CNY). When I stop at a vending machine, I'd start contemplating if I should fight my craving for my favorite soda for how much they cost here... Isn't it insane that a bottle of coke here in the United States costs 1.5 dollars? I can get five bottles of coke back home, even bigger sizes, with the same amount, as they usually cost 2 yuan (0.3 dollar) in China.</p>
+                <p>I would constantly doing calculations whenever I'm buying small things. My brain would automatically convert what's on the price tag to the currency I use at home (CNY). When I stop at a vending machine, I'd start contemplating if I should fight my craving for my favorite soda for how much they cost here... Isn't it insane that a bottle of coke here in the United States costs 1.5 dollars? I can get five bottles of coke back home, even bigger sizes, with the same amount, as they usually cost 3 yuan (0.5 dollar) in China.</p>
                 <br>
                 <iframe title="[Draft] How much does a bottle of Coke cost around the world?" aria-label="Map" id="datawrapper-chart-84r9e" src="https://datawrapper.dwcdn.net/84r9e/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="488" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
                 <br>
+                <br>
                 <p>So naturally, I complained to my mom about how everything is more expensive here in the States, which quickly escalated into an existential crisis: if I want to live in the U.S. after I graduate from grad school, if I can make enough money and survive off that once I leave school, whether I made the right choice going into journalism because we are paid so little... </p>
                 <p>But my mom has her way of comforting me. "Once you start getting your paychecks, you'd stop complaining about soda prices. What you got paid for your part-time on campus job–is the equivalent of how much I get paid, after working for 30 years!"</p>
-                <p>And that's *global inequality* right there! Said the little voice in my head. </p>
-                <p>Though my mom's consolation did not stop me from meticulously doing maths before picking up a drink from the shelf, I start wondering if the cost of these small things we enjoy in life, like a bottle of soda, could shine some light on the cost of living and the global economy. </p>
-                <p>...something about the coca-cola index and the methodology</p>
+                <p>And that's <em>global inequality</em> right there! Said the little voice in my head. </p>
+                <p>Though my mom's consolation did not stop me from meticulously doing math before picking up a drink from the shelf, I started wondering if the affordability of these small things we enjoy in life, like a bottle of soda, could reflect the income level and affordability around the world. </p>
                 <br>
                 <iframe title="[DRAFT] How many bottles of Cokes can people around the world afford daily?" aria-label="Map" id="datawrapper-chart-JbeRA" src="https://datawrapper.dwcdn.net/JbeRA/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="562" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
                 <br>
-                <p>...something about comparing the index with the cost of living index (World Bank data)</p>
-                <p>...what I found, and why or why not the coca-cola index could be directly translate to the indicator for global cost of living</p>
-                <p>...some interesting facts about coke</p>
+                <br>
+                <p>Though the United States is home to the world’s most beloved beverage, it is not the most affordable country to buy Coke.</p>
+                <p>However, if you are a Coke lover and live in the Middle East, chances are you are in luck. Cokes are most affordable in Kuwait, Qatar and a few adjacent neighbors, whose oil production per capita also ranks the highest in the world. Although these countries are not the highest earning countries in the world, Cokes are sold at a fairly cheaper price below world average.
+                </p>
+                
+                <p>So how are the highest earning countries doing? While the Swiss earn the most in a day, Coke prices are also the highest in Switzerland; which puts the country on the 23rd for Coke affordability. Overall, Cokes are fairly expensive in Europe, especially wealthier West European countries, which makes them less affordable when compared to some Asian countries: where Cokes are cheaper even though people get paid less. The least affordable place to get Cokes are Africa and South America, as people there generally make the least among world countries.</p>
+                <br>
+                <iframe title="Affordability of Coke🥤 around the world" aria-label="Table" id="datawrapper-chart-gzEN7" src="https://datawrapper.dwcdn.net/gzEN7/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1090" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                </script>
+                <br>
+                <br>
+                <p>Using the affordability of Coke as the measure of the global economy seems relatively accurate when looking at countries with lower income levels. But the measurement becomes a bit off when it comes to higher earning countries in North America and Europe.</p>
 
+                <p>What exactly is wrong with our Coke index? Let’s look into the factors affecting the price and cost of Coca-cola, for instance. The cost of one bottle of coke, before they are distributed to stores and restaurants for sale, includes manufacturing, bottling, transportation, etc. Coca-cola handles the manufacturing of Coke concentrates on its own, as well as the bottling and distribution in some markets. They also partner with about 225 bottling companies worldwide.</p>
+
+                <p>The presence of a local bottler could potentially increase the affordability of Coke. For instance, Cokes are generally more affordable in Western European countries where there are local bottlers compared to those without. Other factors deciding soda prices are taxes and demand. Places where demand for Coke is low often has a lower supply of Coke, and the price will hence rise due to low supply.</p>
+                <br>
+                <h5><em>Extra fun fact about soda consumption:</em></h5>
+                <p>It's (almost) impossible that anyone would actually go spend all they make in a day to hoard soda... So here's the real question: how much soda do people drink?</p>
+                <br>
+                <iframe title="Americans drink most soda in total, while Mexicans drink more per person" aria-label="Split Bars" id="datawrapper-chart-nZyi4" src="https://datawrapper.dwcdn.net/nZyi4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="394" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                </script>
+                <br>
+                <br>
+                <br>
+                <p class="data-diary"><em>Learn more about the data analysis in this story.</em></p>
             </div>
         </div>
     </div>
