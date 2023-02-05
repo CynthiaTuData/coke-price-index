@@ -46,6 +46,8 @@ Visualizing data posted another challenge. The data I want to highlight happen t
 - Coke affordibility is only a **fun way** to understand the cost of living, since the price of Coke is influenced by many other factors. For example, tax policies on beverages would impact Coke prices. The cost of distribution and bottling in different countries also differs. Coke demand and supply is another huge factor when deciding sale prices.
 
 ## Contact
-I can be reached at xt2274@columbia.edu or on Twitter @CynthiaTu2. My inbox is open for any comments, suggestions, angry email telling me what I did wrong in this project... Feel free to let me know what's your favorite Coke flavor/Coca-cola product! Mine is Vanilla Coke and an Orange drink name "Qoo" (酷儿).
+I can be reached at xt2274@columbia.edu or on Twitter @CynthiaTu2. My inbox is open for any comments, suggestions, angry email telling me what I did wrong in this project... 
+
+Feel free to let me know what's your favorite Coke flavor/Coca-cola product! Mine is Vanilla Coke and an Orange drink name "Qoo" (酷儿).
 
 ![qoo-drink](https://user-images.githubusercontent.com/116761432/216846234-7a9c832d-36ff-42df-af7e-8d534cb09021.jpg)
