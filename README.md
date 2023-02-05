@@ -48,6 +48,6 @@ Visualizing data posted another challenge. The data I want to highlight happen t
 ## Contact
 I can be reached at xt2274@columbia.edu or on Twitter @CynthiaTu2. My inbox is open for any comments, suggestions, angry email telling me what I did wrong in this project... 
 
-Feel free to let me know what's your favorite Coke flavor/Coca-cola product! Mine is Vanilla Coke and an Orange drink name "Qoo" (酷儿).
+Feel free to let me know what's your favorite Coke flavor/Coca-cola product! Mine is Vanilla Coke and an Orange drink named "Qoo" (酷儿).
 
 ![qoo-drink](https://user-images.githubusercontent.com/116761432/216846234-7a9c832d-36ff-42df-af7e-8d534cb09021.jpg)
